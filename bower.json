@@ -1,0 +1,28 @@
+{
+  "name": "app",
+  "description": "Nana Website",
+  "main": "",
+  "appPath": "app",
+  "authors": [
+    "Alex Guevara <aguevara@matoot.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "yui"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fastclick": "~1.0.6",
+    "foundation": "zurb/bower-foundation",
+    "jquery-placeholder": "~2.3.1",
+    "jquery.cookie": "jquery-cookie#~1.4.1",
+    "modernizr": "~3.3.1"
+  }
+}
